@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    background: green;
+}
+img{
+    max-width: 200px;
+    max-height: 300px;
+    border-radius: 70%;
+}
+
+video{
+    max-width: 700px;
+    max-height: 500px;
+}
+
+footer{
+    margin-top: 30px;
+    padding: 20px 50px;
+    background-color: darkblue;
+    border-radius: 10px;
+    color: white;
+
+}
